@@ -17,6 +17,6 @@
 
 [![Docker](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo "Docker")
 
--[ ] To do list
--[x] Done
+- [ ] To do list
+- [x] Done
 
