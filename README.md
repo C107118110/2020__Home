@@ -20,3 +20,8 @@
 - [ ] To do list
 - [x] Done
 
+```js
+function myFuction(p1,p2){
+  return p1*p2;
+  }
+  ```
